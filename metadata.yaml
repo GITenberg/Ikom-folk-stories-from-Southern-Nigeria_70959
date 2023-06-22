@@ -1,5 +1,8 @@
 _repo: Ikom-folk-stories-from-Southern-Nigeria_70959
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70959-h/images/cover.jpg
 creator:
   author:
     agent_name: Dayrell, Elphinstone
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '37154'
     url: http://www.gutenberg.org/2009/agents/37154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70959#Ikom-folk-stories-from-Southern-Nigeria
 gutenberg_issued: '2023-06-11'
 identifiers:
   gutenberg: '70959'
